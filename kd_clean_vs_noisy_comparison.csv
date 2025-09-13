@@ -1,0 +1,8 @@
+Metric,Clean KD,Noisy KD
+Final Train Loss,0.0886,0.192
+Final Test Loss,0.0306,0.0416
+Final Train Accuracy (%),99.26,94.73
+Final Test Accuracy (%),98.95,98.65
+Total Training Time (s),150.01,158.75
+
+
